@@ -1,4 +1,3 @@
-import 'package:dart_hw2/dart_hw2.dart' as dart_application_1;
 import 'dart:convert';
 import 'dart:math';
 
